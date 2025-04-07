@@ -1,0 +1,54 @@
+[2025-04-07 07:15:48,924] INFO - Fetched weather data for Berlin
+[2025-04-07 07:15:49,036] INFO - Fetched weather data for London
+[2025-04-07 07:15:49,150] INFO - Fetched weather data for Cairo
+[2025-04-07 07:15:49,265] INFO - Fetched weather data for Tokyo
+[2025-04-07 07:15:49,382] INFO - Fetched weather data for New York
+[2025-04-07 07:15:49,387] INFO - Saved data to data/weather_data_2025-04-07.csv
+[2025-04-07 07:46:44,267] INFO - Fetched weather data for Berlin
+[2025-04-07 07:46:44,384] INFO - Fetched weather data for London
+[2025-04-07 07:46:44,506] INFO - Fetched weather data for New York
+[2025-04-07 07:46:44,624] INFO - Fetched weather data for Tokyo
+[2025-04-07 07:46:44,742] INFO - Fetched weather data for Sydney
+[2025-04-07 07:46:44,746] INFO - Saved data to data/weather_data_2025-04-07.csv
+[2025-04-07 09:28:42,193] INFO - Fetched weather data for ThisCityDoesNotExist
+[2025-04-07 09:28:42,193] ERROR - General error for ThisCityDoesNotExist: 'name'
+[2025-04-07 09:28:42,194] INFO - Fetched weather data for Berlin
+[2025-04-07 09:33:16,894] ERROR - HTTP error for Berlin: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Berlin&appid=your_actual_api_key&units=metric
+[2025-04-07 09:33:16,894] ERROR - Failed to fetch data for Berlin
+[2025-04-07 09:33:16,967] ERROR - HTTP error for London: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=London&appid=your_actual_api_key&units=metric
+[2025-04-07 09:33:16,968] ERROR - Failed to fetch data for London
+[2025-04-07 09:33:17,040] ERROR - HTTP error for New York: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=New+York&appid=your_actual_api_key&units=metric
+[2025-04-07 09:33:17,040] ERROR - Failed to fetch data for New York
+[2025-04-07 09:33:17,114] ERROR - HTTP error for Tokyo: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid=your_actual_api_key&units=metric
+[2025-04-07 09:33:17,115] ERROR - Failed to fetch data for Tokyo
+[2025-04-07 09:33:17,188] ERROR - HTTP error for Sydney: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Sydney&appid=your_actual_api_key&units=metric
+[2025-04-07 09:33:17,189] ERROR - Failed to fetch data for Sydney
+[2025-04-07 09:33:17,189] ERROR - No weather data to save
+[2025-04-07 09:33:46,662] ERROR - HTTP error for Berlin: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Berlin&units=metric
+[2025-04-07 09:33:46,663] ERROR - Failed to fetch data for Berlin
+[2025-04-07 09:33:46,781] ERROR - HTTP error for London: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=London&units=metric
+[2025-04-07 09:33:46,782] ERROR - Failed to fetch data for London
+[2025-04-07 09:33:46,898] ERROR - HTTP error for New York: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=New+York&units=metric
+[2025-04-07 09:33:46,899] ERROR - Failed to fetch data for New York
+[2025-04-07 09:33:47,010] ERROR - HTTP error for Tokyo: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Tokyo&units=metric
+[2025-04-07 09:33:47,011] ERROR - Failed to fetch data for Tokyo
+[2025-04-07 09:33:47,120] ERROR - HTTP error for Sydney: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/weather?q=Sydney&units=metric
+[2025-04-07 09:33:47,121] ERROR - Failed to fetch data for Sydney
+[2025-04-07 09:33:47,121] ERROR - No weather data to save
+[2025-04-07 09:41:47,271] ERROR - HTTP error for Berlin: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Berlin&appid=your_actual_api_key&units=metric
+[2025-04-07 09:41:47,272] ERROR - Failed to fetch data for Berlin
+[2025-04-07 09:41:47,354] ERROR - HTTP error for London: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=London&appid=your_actual_api_key&units=metric
+[2025-04-07 09:41:47,355] ERROR - Failed to fetch data for London
+[2025-04-07 09:41:47,434] ERROR - HTTP error for New York: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=New+York&appid=your_actual_api_key&units=metric
+[2025-04-07 09:41:47,435] ERROR - Failed to fetch data for New York
+[2025-04-07 09:41:47,515] ERROR - HTTP error for Tokyo: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid=your_actual_api_key&units=metric
+[2025-04-07 09:41:47,515] ERROR - Failed to fetch data for Tokyo
+[2025-04-07 09:41:47,594] ERROR - HTTP error for Sydney: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Sydney&appid=your_actual_api_key&units=metric
+[2025-04-07 09:41:47,594] ERROR - Failed to fetch data for Sydney
+[2025-04-07 09:41:47,595] ERROR - No weather data to save
+[2025-04-07 09:43:01,363] INFO - Fetched weather data for Berlin
+[2025-04-07 09:43:01,444] INFO - Fetched weather data for London
+[2025-04-07 09:43:01,522] INFO - Fetched weather data for New York
+[2025-04-07 09:43:01,598] INFO - Fetched weather data for Tokyo
+[2025-04-07 09:43:01,674] INFO - Fetched weather data for Sydney
+[2025-04-07 09:43:01,678] INFO - Saved data to data/weather_data_2025-04-07.csv

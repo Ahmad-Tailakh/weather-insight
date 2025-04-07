@@ -1,0 +1,26 @@
+2025-04-07 09:46:39,350 - INFO - Fetched weather data for Berlin
+2025-04-07 09:46:39,430 - INFO - Fetched weather data for London
+2025-04-07 09:46:39,511 - INFO - Fetched weather data for New York
+2025-04-07 09:46:39,515 - INFO - Saved data to weather_data.csv
+2025-04-07 09:46:44,393 - INFO - Fetched weather data for Berlin
+2025-04-07 09:46:44,470 - INFO - Fetched weather data for London
+2025-04-07 09:46:44,549 - INFO - Fetched weather data for New York
+2025-04-07 09:46:44,554 - INFO - Saved data to weather_data.csv
+2025-04-07 09:47:16,689 - INFO - Fetched weather data for Berlin
+2025-04-07 09:47:16,765 - INFO - Fetched weather data for London
+2025-04-07 09:47:16,841 - INFO - Fetched weather data for New York
+2025-04-07 09:47:16,919 - INFO - Fetched weather data for Tokyo
+2025-04-07 09:47:16,996 - INFO - Fetched weather data for Sydney
+2025-04-07 09:47:16,999 - INFO - Saved data to data/weather_data_2025-04-07.csv
+2025-04-07 09:51:17,961 - INFO - Fetched weather data for Berlin
+2025-04-07 09:51:18,036 - INFO - Fetched weather data for London
+2025-04-07 09:51:18,110 - INFO - Fetched weather data for New York
+2025-04-07 09:51:18,186 - INFO - Fetched weather data for Tokyo
+2025-04-07 09:51:18,259 - INFO - Fetched weather data for Sydney
+2025-04-07 09:51:18,263 - INFO - Saved data to data/weather_data_2025-04-07.csv
+2025-04-07 09:52:19,937 - INFO - Fetched weather data for Berlin
+2025-04-07 09:52:20,012 - INFO - Fetched weather data for London
+2025-04-07 09:52:20,089 - INFO - Fetched weather data for New York
+2025-04-07 09:52:20,163 - INFO - Fetched weather data for Tokyo
+2025-04-07 09:52:20,242 - INFO - Fetched weather data for Sydney
+2025-04-07 09:52:20,252 - INFO - Saved data to data/weather_data_2025-04-07.csv
