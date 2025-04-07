@@ -24,3 +24,15 @@
 2025-04-07 09:52:20,163 - INFO - Fetched weather data for Tokyo
 2025-04-07 09:52:20,242 - INFO - Fetched weather data for Sydney
 2025-04-07 09:52:20,252 - INFO - Saved data to data/weather_data_2025-04-07.csv
+2025-04-07 15:26:23,767 - INFO - Saved data to test_weather_data.csv
+2025-04-07 15:26:23,772 - INFO - Fetched weather data for ThisCityDoesNotExist
+2025-04-07 15:26:23,772 - ERROR - General error for ThisCityDoesNotExist: 'name'
+2025-04-07 15:26:23,774 - INFO - Fetched weather data for Berlin
+2025-04-07 15:30:37,112 - INFO - Saved data to test_weather_data.csv
+2025-04-07 15:30:37,117 - INFO - Fetched weather data for ThisCityDoesNotExist
+2025-04-07 15:30:37,118 - ERROR - General error for ThisCityDoesNotExist: 'name'
+2025-04-07 15:30:37,120 - INFO - Fetched weather data for Berlin
+2025-04-07 15:34:37,812 - INFO - Saved data to test_weather_data.csv
+2025-04-07 15:34:37,819 - INFO - Fetched weather data for ThisCityDoesNotExist
+2025-04-07 15:34:37,819 - ERROR - General error for ThisCityDoesNotExist: 'name'
+2025-04-07 15:34:37,821 - INFO - Fetched weather data for Berlin

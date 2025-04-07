@@ -2,22 +2,20 @@ import schedule
 import time
 from src.main import fetch_weather_for_multiple_cities
 
+def job():
+    cities = ["Berlin", "London", "New York"]
+    fetch_weather_for_multiple_cities(cities)
 
-# Function to schedule the fetching of weather data
 def schedule_weather_fetching():
-    cities = ["Berlin", "London", "New York"]  # Add more cities as needed
+    # Schedule the job every day at 7:00 AM
+    schedule.every().day.at("07:00").do(job)
+    print("✅ Weather fetching scheduled to run daily at 07:00...")
 
-    # Define the job to run every day at 7:00 AM
-    schedule.every().day.at("07:00").do(fetch_weather_for_multiple_cities, cities)
-
-    print("Weather fetching scheduled...")
-
-    # Run the scheduled tasks
+def run_scheduler():
     while True:
         schedule.run_pending()
-        time.sleep(60)  # Wait for a minute before checking again
+        time.sleep(60)
 
-
-# Run the schedule function
 if __name__ == "__main__":
     schedule_weather_fetching()
+    run_scheduler()
