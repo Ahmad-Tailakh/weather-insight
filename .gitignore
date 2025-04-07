@@ -12,3 +12,6 @@ venv/
 # IDE or editor-specific files (optional, if using VSCode, PyCharm, etc.)
 .vscode/
 .idea/
+
+
+git rm --cached weather_api.log
